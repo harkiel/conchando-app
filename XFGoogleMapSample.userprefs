@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{998D7BC0-1D6D-4ED4-95DD-783B833E3805}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFGoogleMapSample/TodosJunto.xaml">
+    <Files>
+      <File FileName="XFGoogleMapSample/ShapesWithInitializePage.xaml.cs" Line="23" Column="13" />
+      <File FileName="XFGoogleMapSample/ShapesPage.xaml.cs" Line="32" Column="17" />
+      <File FileName="XFGoogleMapSample/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/PinsPage.xaml.cs" Line="42" Column="15" />
+      <File FileName="XFGoogleMapSample/ContactsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/BindingPinView.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/BindingPinViewPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.0.2-37/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="2" Column="1" />
+      <File FileName="XFGoogleMapSample/packages.config" Line="5" Column="12" />
+      <File FileName="Droid/packages.config" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/ShapesPage.xaml" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/MasterPage.xaml" Line="11" Column="1" />
+      <File FileName="XFGoogleMapSample/MasterPage.xaml.cs" Line="39" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="XFGoogleMapSample/MasterPageItem.cs" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/:Users:macbook:Desktop:ChildOfLight:XFGoogleMapSample:Carros.xaml" Line="11" Column="13" />
+      <File FileName="XFGoogleMapSample/:Users:macbook:Desktop:ChildOfLight:XFGoogleMapSample:Carros.cs" Line="10" Column="6" />
+      <File FileName="XFGoogleMapSample/Voladora.xaml" Line="17" Column="1" />
+      <File FileName="XFGoogleMapSample/Voladora.xaml.cs" Line="14" Column="13" />
+      <File FileName="XFGoogleMapSample/ShapesWithInitializePage.xaml" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/Carritos.xaml" Line="10" Column="1" />
+      <File FileName="XFGoogleMapSample/Carritos.xaml.cs" Line="130" Column="13" />
+      <File FileName="XFGoogleMapSample/TodosJunto.xaml" Line="22" Column="59" />
+      <File FileName="XFGoogleMapSample/TodosJunto.xaml.cs" Line="417" Column="44" />
+      <File FileName="XFGoogleMapSample/MainPage.xaml" Line="19" Column="20" />
+      <File FileName="XFGoogleMapSample/PinsPage.xaml" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/ReminderPage.xaml" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/GlobalVar.cs" Line="15" Column="33" />
+      <File FileName="XFGoogleMapSample/TodoListPage.xaml" Line="1" Column="1" />
+      <File FileName="XFGoogleMapSample/obj/Debug/XFGoogleMapSample.TodosJunto.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XFGoogleMapSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3348D846-61AA-4CFC-8646-180D5AE436A3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFGoogleMapSample.Droid PreferredExecutionTarget="Android.jojojoo" />
+</Properties>

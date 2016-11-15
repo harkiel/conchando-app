@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="XFGoogleMapSample.TodosJunto"
+    xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+    Title="Shapes with initialize">
+    <ContentPage.Content>
+
+
+
+		
+        <StackLayout Orientation="Vertical">
+
+
+        <StackLayout Orientation = "Horizontal">
+
+            <Button HorizontalOptions = "CenterAndExpand" x:Name = "carrito" Text = "Ca" IsEnabled = "true" Clicked = "OnCarritoClicked"></Button>
+            <Button HorizontalOptions = "CenterAndExpand" x:Name = "voladora" Text = "Vo" IsEnabled = "true" Clicked = "OnVoladoraClicked"></Button>
+            <Button HorizontalOptions = "CenterAndExpand" x:Name = "metro" Text = "Me" IsEnabled = "true" Clicked = "OnMetroClicked"></Button>
+            <Button HorizontalOptions = "CenterAndExpand" x:Name = "omsa" Text = "Om" IsEnabled = "true" Clicked = "OnOmsaClicked"></Button>
+            <Button HorizontalOptions = "CenterAndExpand" x:Name = "guagua" Text = "Gu" IsEnabled = "true" Clicked = "OnGuaguaClicked"></Button>
+            
+        </StackLayout>
+
+
+			
+            <maps:Map x:Name="map" 
+                    VerticalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
